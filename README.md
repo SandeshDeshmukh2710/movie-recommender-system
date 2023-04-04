@@ -3,7 +3,7 @@ This is a movie recommender system that suggests movies to users based on their 
 
 ## Features
 
-View movie recommendations based on user preferences
+View movie recommendations based on user preferences \n
 Collaborative filtering algorithm to suggest popular movies among similar users
 Content-based filtering algorithm to suggest movies based on similar features or genres
 

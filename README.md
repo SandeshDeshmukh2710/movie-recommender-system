@@ -3,13 +3,13 @@ This is a movie recommender system that suggests movies to users based on their 
 
 ## Features
 
-View movie recommendations based on user preferences \n
-Collaborative filtering algorithm to suggest popular movies among similar users
-Content-based filtering algorithm to suggest movies based on similar features or genres
+- View movie recommendations based on user preferences 
+- Collaborative filtering algorithm to suggest popular movies among similar users
+- Content-based filtering algorithm to suggest movies based on similar features or genres
 
 ## Technologies
 
-Python programming language
-streamlit 
-tmdb api's
-Scikit-learn library for machine learning algorithms
+- Python programming language
+- streamlit 
+- tmdb api's
+- Scikit-learn library for machine learning algorithms
